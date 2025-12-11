@@ -24,3 +24,6 @@ import statsmodels.formula.api as smf
 
 ## Data Sources & Acquisition
 The analysis relies on public data sources, filtered to a 12-month event window (6 months before and 6 months after the fire event date of January 7, 2025).
+- Zillow Home Value Index (ZHVI)
+- ZIP Codes & Time
+- CAL FIRE DINS Data & Perimeters
